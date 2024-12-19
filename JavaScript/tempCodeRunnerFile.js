@@ -1,0 +1,1 @@
+typeof 0; //defines the data type
